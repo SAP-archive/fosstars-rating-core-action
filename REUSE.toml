@@ -1,0 +1,10 @@
+version = 1
+SPDX-PackageName = "Fosstars Rating Core Action"
+SPDX-PackageSupplier = "Artem Smotrakov <artem.smotrakov@sap.com>"
+SPDX-PackageDownloadLocation = "https://github.com/SAP/fosstars-rating-core-action"
+
+[[annotations]]
+path = "**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2021 SAP SE or an SAP affiliate company and Fosstars Rating Core Action contributors"
+SPDX-License-Identifier = "Apache-2.0"
